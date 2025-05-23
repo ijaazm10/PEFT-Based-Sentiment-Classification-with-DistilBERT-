@@ -1,1 +1,2 @@
-# PEFT-Based-Sentiment-Classification-with-DistilBERT-
+# PEFT-Based-Sentiment-Classification-with-DistilBERT
+This project implements sentiment analysis using DistilBERT, a lightweight language model, with LoRA (Low-Rank Adaptation) for efficient fine-tuning. The model is trained on the IMDb dataset (in-domain) and evaluated on both IMDb and Amazon datasets (out-of-domain) to assess its performance under domain shift. The notebook uses DistilBERT to explore its capabilities in sentiment classification.
